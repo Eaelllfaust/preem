@@ -1,5 +1,9 @@
-# Preem dashboard template.
+# Preem Dashboard Template
 
-You can fork and modify as you like. Quickly iterate on your app ideas with the free preem template.
+You can fork and modify this template as you like. Quickly iterate on your app ideas with the free Preem template.
 
-<img src='assets/preem.png'>
+![Preem dashboard preview](assets/preem.png)
+
+## Contact
+
+eaelllfaust@gmail.com
