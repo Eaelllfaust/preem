@@ -387,6 +387,7 @@ html {
 .ml1 i{
     transform: rotate(45deg);
     font-size: 1.5rem;
+    margin-left:20px;
 }
 
 .ml10 {
