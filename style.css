@@ -232,13 +232,16 @@ html {
 .ev3 > div{
     margin-right:50px;
 }
+
 .vl0{
   color: var(--grey_3);
   margin-bottom: 10px;
 }
+
 .vl1{
     color: #fff;
 }
+
 .button_matter {
   display: flex;
   align-items: center;
@@ -251,6 +254,39 @@ html {
   justify-content: center;
   border-radius: 30px;
 }
+.button_matter_preem {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  background-color: #4CAF50;
+  width: 150px;
+  padding: 20px;
+  padding-top: 15px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-bottom:15px;
+  justify-content: center;
+  border-radius: 30px;
+}
+.button_matter_grey {
+  display: flex;
+  align-items: center;
+  color: var(--grey_1);
+  background-color: #E0E0E0;
+  width: 150px;
+  padding: 20px;
+  padding-top: 15px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-bottom:15px;
+  justify-content: center;
+  border-radius: 30px;
+}
+.h21{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .ev2 {
   display: flex;
   align-items: center;
@@ -260,4 +296,13 @@ html {
 .ev2 h2 {
   color: var(--grey_4);
   font-size: var(--font-size-huge);
+}
+
+.otherevent{
+    padding: 30px;
+}
+
+.f09{
+    font-size: 15px;
+    color: var(--grey_2);
 }
