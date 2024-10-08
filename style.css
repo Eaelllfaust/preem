@@ -133,7 +133,12 @@ html {
 
 .sidebar_list div {
   cursor: pointer;
+  transition: all .2s ease;
   margin-bottom: 1rem;
+}
+
+.sidebar_list div:hover{
+    color: #a4a4a4;
 }
 .sidebar_list_next div {
   cursor: pointer;
@@ -198,7 +203,7 @@ html {
 }
 
 .eventhold {
-  width: 500px;
+  max-width: 500px;
   height: 220px;
   flex-shrink: 0;
   border-radius: 30px;
@@ -313,6 +318,11 @@ html {
   padding-bottom: 15px;
   justify-content: center;
   border-radius: 30px;
+  transition: all.2s ease;
+}
+
+.button_matter_grey:hover{
+    background-color: #c9c9c9;
 }
 
 .h21 {
