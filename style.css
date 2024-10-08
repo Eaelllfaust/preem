@@ -157,7 +157,7 @@ html {
   margin-left: 10px;
 }
 .events {
-  margin-top: 3rem;
+  margin-top: 2rem;
   display: flex;
   flex-wrap: wrap;
 }
@@ -225,21 +225,21 @@ html {
   height: auto;
   margin-right: 10px;
 }
-.ev3{
-    display: flex;
+.ev3 {
+  display: flex;
 }
 
-.ev3 > div{
-    margin-right:50px;
+.ev3 > div {
+  margin-right: 50px;
 }
 
-.vl0{
+.vl0 {
   color: var(--grey_3);
   margin-bottom: 10px;
 }
 
-.vl1{
-    color: #fff;
+.vl1 {
+  color: #fff;
 }
 
 .button_matter {
@@ -250,7 +250,7 @@ html {
   width: 150px;
   padding: 20px;
   padding-top: 15px;
-  padding-bottom:15px;
+  padding-bottom: 15px;
   justify-content: center;
   border-radius: 30px;
 }
@@ -258,13 +258,13 @@ html {
   display: flex;
   align-items: center;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #4caf50;
   width: 150px;
   padding: 20px;
   padding-top: 15px;
   margin-right: 10px;
   margin-top: 10px;
-  padding-bottom:15px;
+  padding-bottom: 15px;
   justify-content: center;
   border-radius: 30px;
 }
@@ -272,19 +272,19 @@ html {
   display: flex;
   align-items: center;
   color: var(--grey_1);
-  background-color: #E0E0E0;
+  background-color: #e0e0e0;
   width: 150px;
   padding: 20px;
   padding-top: 15px;
   margin-right: 10px;
   margin-top: 10px;
-  padding-bottom:15px;
+  padding-bottom: 15px;
   justify-content: center;
   border-radius: 30px;
 }
-.h21{
-    display: flex;
-    flex-wrap: wrap;
+.h21 {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .ev2 {
@@ -298,11 +298,31 @@ html {
   font-size: var(--font-size-huge);
 }
 
-.otherevent{
-    padding: 30px;
+.otherevent {
+  padding: 30px;
+}
+.marketevent {
+  padding: 30px;
+  display: flex;
 }
 
-.f09{
-    font-size: 15px;
-    color: var(--grey_2);
+.f09 {
+  font-size: 15px;
+  color: var(--grey_2);
+}
+.n43 {
+  display: flex;
+  justify-content: space-between;
+}
+.m99 {
+  width: 500px;
+}
+.m88 {
+  margin-top: 20px;
+  width: 553px;
+  height: 150px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 0px 16px 26.8px 10px rgba(207, 207, 207, 0.25);
 }
